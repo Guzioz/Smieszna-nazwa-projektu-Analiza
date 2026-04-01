@@ -1,2 +1,2 @@
-# Smieszna-nazwa-projektu-Analiza
+# Projekt Analiza Danych
  Analiza Danych
